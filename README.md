@@ -20,10 +20,10 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-![Python](https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg){: width="20"  }&nbsp;
-![R](https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg){: width="20"  }&nbsp;
-![C#](https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg){: width="20"  }&nbsp;
-![SQL](https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg){: width="20"  }&nbsp;
+![Python](https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg){: width="20px" } &nbsp;
+![R](https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg){: width="20px" } &nbsp;
+![C#](https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg){: width="20px" } &nbsp;
+![SQL](https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg){: width="20px" } &nbsp;
 
 ---
 
